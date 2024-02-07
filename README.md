@@ -25,7 +25,7 @@
 ###
 
 <p align="left">👋 Hello, I'm Johnson - a passionate Java coder and dedicated student navigating the vast ocean of technology. As a student, I've embarked on a journey to master the art of coding, with a special focus on Java - a language renowned for its versatility and efficiency.<br><br>💻 I am particularly fascinated by the power of Java in developing scalable and robust applications. From creating desktop applications to contributing to open-source projects, I am continuously honing my skills to become a proficient coder. My GitHub repositories reflect my commitment to learning and my passion for sharing knowledge with the community.<br><br>🔍 On this platform, you'll find a variety of projects ranging from simple Java programs to complex software solutions, each representing a step forward in my coding journey. Through these projects, I aim to showcase my problem-solving abilities, my grasp of object-oriented programming, and my dedication to writing clean, efficient code.<br><br>📫 How to reach me: Feel free to connect with me by dropping me an email at Johnsonj198207@gmail.com for collaborations, discussions, or simply to say hi. I'm always open to learning from fellow coders and contributing to meaningful projects.<br><br>🚀 As I continue to navigate through my academic and coding journey, I am eager to explore new technologies, contribute to impactful projects, and grow as a developer. Thank you for visiting my GitHub profile. Let's code the future together!
-feel free to visit the medium article below</p>
+<br><br>feel free to visit the medium article below</p>
 
 ###
 
